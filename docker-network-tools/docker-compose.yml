@@ -1,0 +1,4 @@
+services:
+  docker-network-tools:
+    image: jonlabelle/network-tools
+#    command: wget host.docker.internal:8080
